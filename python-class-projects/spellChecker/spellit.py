@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 def spellcheck(sentence):
 	words = open('spell.words').readlines()
 	words = list(map(lambda x: x.strip(),words))
