@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f08ef80c-d5eb-4126-8da9-191d7cc31646" name="Default" comment="" />
+    <list default="true" id="f08ef80c-d5eb-4126-8da9-191d7cc31646" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files.py" afterPath="$PROJECT_DIR$/files.py" />
+    </list>
     <ignored path="python3-essentials.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,11 +83,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="geberator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="geberator.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/Pythonclass/nesh python/geberator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6289308">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="files.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="r&amp;w.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/r&amp;w.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.22012578">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -114,12 +136,32 @@
         <option value="$USER_HOME$/Desktop/Pythonclass/nesh python/inheritance.py" />
         <option value="$USER_HOME$/Desktop/Pythonclass/nesh python/polymorphism.py" />
         <option value="$USER_HOME$/Desktop/Pythonclass/nesh python/geberator.py" />
+        <option value="$PROJECT_DIR$/r&amp;w.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1280" />
     <option name="height" value="800" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyStatementEffectInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -206,7 +248,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Pythonclass/nesh python/geberator.py" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.geberator">
+  <component name="RunManager" selected="Python.r&amp;w">
     <configuration default="false" name="chat" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,6 +313,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python3-essentials" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Pythonclass/nesh python/geberator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="r&amp;w" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python3-essentials" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/r&amp;w.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -397,18 +456,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.chat" />
       <item index="1" class="java.lang.String" itemvalue="Python.inheritance" />
       <item index="2" class="java.lang.String" itemvalue="Python.polymorphism" />
       <item index="3" class="java.lang.String" itemvalue="Python.geberator" />
+      <item index="4" class="java.lang.String" itemvalue="Python.r&amp;w" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.geberator" />
-        <item index="1" class="java.lang.String" itemvalue="Python.polymorphism" />
-        <item index="2" class="java.lang.String" itemvalue="Python.inheritance" />
-        <item index="3" class="java.lang.String" itemvalue="Python.chat" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.r&amp;w" />
+        <item index="1" class="java.lang.String" itemvalue="Python.geberator" />
+        <item index="2" class="java.lang.String" itemvalue="Python.polymorphism" />
+        <item index="3" class="java.lang.String" itemvalue="Python.inheritance" />
+        <item index="4" class="java.lang.String" itemvalue="Python.chat" />
       </list>
     </recent_temporary>
   </component>
@@ -610,8 +671,24 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/Pythonclass/nesh python/geberator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6289308">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/r&amp;w.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22012578">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding />
         </state>
       </provider>
