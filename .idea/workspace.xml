@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f08ef80c-d5eb-4126-8da9-191d7cc31646" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files.py" afterPath="$PROJECT_DIR$/files.py" />
-    </list>
+    <list default="true" id="f08ef80c-d5eb-4126-8da9-191d7cc31646" name="Default" comment="" />
     <ignored path="python3-essentials.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
